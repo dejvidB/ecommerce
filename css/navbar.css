@@ -1,0 +1,248 @@
+  #snackbar {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #3264a8;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 70px;
+    font-size: 17px;
+    border:1px solid black;
+  }
+  
+  #snackbar.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 3s;
+    animation: fadein 0.5s, fadeout 0.5s 3s;
+  }
+  
+  #snackbar a{
+      color:yellow;
+  }
+  /* Animations to fade the snackbar in and out */
+  @-webkit-keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 70px; opacity: 1;}
+  }
+  
+  @keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 70px; opacity: 1;}
+  }
+  
+  @-webkit-keyframes fadeout {
+    from {bottom: 70px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+  }
+  
+  @keyframes fadeout {
+    from {bottom: 70px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+  }
+  
+  
+  .person:hover{
+          cursor: pointer; cursor: hand;
+          background-color: rgba(160, 160, 160, 0.3);
+  }
+  .selected{
+      background-color: rgba(160, 160, 160, 0.3);
+  }
+  @media screen and (max-width: 768px){
+      nav{
+          line-height: 1em;
+      }
+      #sign-pc{
+          display:none;
+      }
+      #showdparts{
+          display:none;
+      }
+  }
+  @media screen and (min-width: 768px){
+      #sign-mob{
+          display:none;
+      }
+      #search-mob{
+          display:none;
+      }
+  }
+  
+  #myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    outline: none; /* Remove outline */
+    background-color: #006aff; /* Set a background color */
+    opacity:0.8;
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 15px; /* Rounded corners */
+    font-size: 14px; /* Increase font size */
+    border:1px solid black;
+  }
+  #myBtn:hover {
+    opacity:1;
+    background-color: #006aff;
+  }
+  #dparts{
+      display:flex;
+      width:100%;
+      line-height:1.5em;
+      justify-content: center;
+  }
+  #dparts ul{
+      display: flex;
+      flex-direction: row;
+      list-style: none;
+      overflow-x:auto;
+      white-space:nowrap;
+  }
+  #dparts > li{
+      flex:1;
+  }
+  .nav-links, .nav-links:hover, .nav-links:active, .nav-links:visited, .nav-links:focus {
+      color:white;
+      text-decoration:none;
+      margin: 0 15px 0px 0px;
+      padding-right: 3px;
+      display:inline;
+  }
+  
+  @media screen and (min-width: 768px) {
+      .main-div-container{
+          display: grid;
+          grid-template-columns: 5% 90% 5%;
+          grid-template-rows: 1; 
+          grid-template-areas: "btn-left products-grid btn-right";
+      }
+  }
+  @media screen and (max-width: 768px) {
+      .btn-left, .btn-right{
+          display: none;
+      }
+  }
+  
+  
+  @supports(display: grid) {
+    .grid-container {
+      background: white;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-rows: auto 1fr auto;
+      
+      grid-template-areas:
+        "main main main";
+      @media screen and (max-width: 500px) {
+        grid-template-columns: 1fr;
+        grid-template-rows: 0.3fr 1fr auto 1fr;
+        grid-template-areas: 
+          "main";
+      }
+    }
+  
+    .grid-container .grid-item {
+      color: #fff;
+      background: white;
+      padding: 3.5em 1em;
+      font-size: 1em;
+      font-weight: 700;
+    }
+    
+    .grid-container .main {
+      color: lighten(gray, 25%);
+      background-color: lighten(white, 60%);
+      grid-area: main;
+      padding: 0;
+      overflow-x: auto;
+      overflow-y: hidden;
+    }
+  
+    .grid-container .items {
+      min-width: 0;
+      position: relative;
+      width: 100%;
+      overflow-x: auto;
+        scrollbar-width: none;
+      overflow-y: hidden;
+        white-space: nowrap;
+      transition: all 0.2s;
+      will-change: transform;
+      user-select: none;
+      cursor: grabbing;
+    }
+  
+    .grid-container .items.active {
+      background: rgba(255,255,255,0.3);
+      cursor: grabbing;
+      cursor: -webkit-grabbing;
+      -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+      -khtml-user-select: none; /* Konqueror HTML */
+      -moz-user-select: none; /* Firefox */
+      -ms-user-select: none; /* Internet Explorer/Edge */
+      user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
+    }
+  
+     @media screen and (max-width: 768px) {
+        .grid-container .item {
+          display: inline-block;
+          min-height: 250px;
+          margin: 2em 1em;
+          max-width:65%;
+        }  
+     }   
+     @media screen and (min-width: 768px) {
+        .grid-container .item {
+          display: inline-block;
+          min-height: 250px;
+          margin: 2em 1em;
+          max-width:25%;
+        }  
+     }
+  
+  .grid-container .item .product {
+    cursor:pointer; 
+    transition: border .2s ease-in-out; 
+  }
+  .grid-container .item img {
+    vertical-align: middle;
+    width: 100%;
+    pointer-events: none;
+  }
+  .grid-container .item h4 {
+      overflow:auto;
+      scrollbar-width: none;
+      color:black;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      font-size:18px;
+  }
+  .grid-container .item h5 {
+    color:black;
+    font-size:22px;
+  }
+  .grid-container .item .add_to_cart {
+    margin-bottom:5px;
+  }
+  /* here's the magic */
+  .grid-container .item .product {
+    display: flex;
+    flex-direction: column;
+  }
+  .grid-container .item .product-body {
+    flex-grow: 1;
+    max-width: 100%;
+  }
+}
+.font {
+  color: #ffbc00;
+}

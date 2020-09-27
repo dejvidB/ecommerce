@@ -1,0 +1,65 @@
+﻿<div class="quick-info-left">
+<div class="tech-specs-header">
+<h2>E&nu; &sigma;&upsilon;&nu;&tau;&omicron;&mu;ί&alpha;</h2>
+</div>
+<p>T&omicron; <strong><em>Quest&nbsp;</em></strong><strong><em>Slimbook 360&nbsp;</em></strong>&epsilon;ί&nu;&alpha;&iota; έ&nu;&alpha; laptop &epsilon;&upsilon;έ&lambda;&iota;&kappa;&tau;&omicron;, &alpha;&xi;&iota;ό&pi;&iota;&sigma;&tau;&omicron; &kappa;&alpha;&iota; &pi;ά&nu;&omega; &alpha;&pi;' ό&lambda;&alpha; &pi;&omicron;&lambda;ύ&pi;&lambda;&epsilon;&upsilon;&rho;&omicron; &pi;&omicron;&upsilon; &theta;&alpha; &sigma;&epsilon; &sigma;&upsilon;&nu;&omicron;&delta;&epsilon;ύ&sigma;&epsilon;&iota; &sigma;&tau;&iota;&sigmaf; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;έ&sigmaf; &sigma;&omicron;&upsilon; &alpha;&nu;&alpha;&zeta;&eta;&tau;ή&sigma;&epsilon;&iota;&sigmaf; &mu;&epsilon; <strong>Touch &omicron;&theta;ό&nu;&eta;</strong>, &mu;&epsilon;&tau;&alpha;&lambda;&lambda;&iota;&kappa;ό &sigma;&alpha;&sigma;ί &kappa;&alpha;&iota; &phi;&omega;&tau;&iota;&zeta;ό&mu;&epsilon;&nu;&omicron; &pi;&lambda;&eta;&kappa;&tau;&rho;&omicron;&lambda;ό&gamma;&iota;&omicron;!</p>
+<p>&Omicron; <strong>&epsilon;&pi;&epsilon;&xi;&epsilon;&rho;&gamma;&alpha;&sigma;&tau;ή&sigmaf; Intel&reg; Celeron N3350, </strong>&delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota;<strong>&nbsp;</strong><strong>4 GB &mu;&nu;ή&mu;&eta;&sigmaf; RAM DDR3</strong>, <strong>&sigma;&kappa;&lambda;&eta;&rho;ό &delta;ί&sigma;&kappa;&omicron; 32 GB</strong> , &epsilon;&nu;ώ &delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota; &kappa;&alpha;&iota; &epsilon;&nu;&sigma;&omega;&mu;&alpha;&tau;&omega;&mu;έ&nu;&eta; &kappa;ά&rho;&tau;&alpha; &gamma;&rho;&alpha;&phi;&iota;&kappa;ώ&nu;. &Mu;&pi;&omicron;&rho;&epsilon;ί&sigmaf; &nu;&alpha; &tau;&omicron; &chi;&rho;&eta;&sigma;&iota;&mu;&omicron;&pi;&omicron;&iota;ή&sigma;&epsilon;&iota;&sigmaf; &epsilon;ί&tau;&epsilon; &omega;&sigmaf; <strong>laptop &epsilon;ί&tau;&epsilon; &omega;&sigmaf; tablet</strong> &kappa;&alpha;&theta;ώ&sigmaf; &eta; &omicron;&theta;ό&nu;&eta; &tau;&omicron;&upsilon; &gamma;&upsilon;&rho;ί&zeta;&epsilon;&iota; 360 &mu;&omicron;ί&rho;&epsilon;&sigmaf; &kappa;&alpha;&iota; &tau;&omicron; &kappa;&alpha;&theta;&iota;&sigma;&tau;ά &alpha;&pi;ί&sigma;&tau;&epsilon;&upsilon;&tau;&alpha; &chi;&rho;&eta;&sigma;&tau;&iota;&kappa;ό! &Omicron;&iota; &mu;&iota;&kappa;&rho;έ&sigmaf; &tau;&omicron;&upsilon; &delta;&iota;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &tau;&omicron; &chi;&alpha;&mu;&eta;&lambda;ό &tau;&omicron;&upsilon; &beta;ά&rho;&omicron;&sigmaf; &tau;&omicron; &kappa;&alpha;&theta;&iota;&sigma;&tau;&omicron;ύ&nu; <strong>&epsilon;ύ&kappa;&omicron;&lambda;&omicron; &sigma;&tau;&eta; &mu;&epsilon;&tau;&alpha;&phi;&omicron;&rho;ά</strong>, &tau;&omicron; &epsilon;&xi;&alpha;&iota;&rho;&epsilon;&tau;&iota;&kappa;ό &tau;&omicron;&upsilon; design &kappa;&alpha;&iota; &tau;&omicron; &phi;&omega;&tau;&iota;&zeta;ό&mu;&epsilon;&nu;&omicron; &pi;&lambda;&eta;&kappa;&tau;&rho;&omicron;&lambda;&omicron;&gamma;&iota;ό &tau;&omicron;&upsilon; &theta;&alpha; &sigma;&epsilon; &kappa;&alpha;&theta;&eta;&lambda;ώ&sigma;&omicron;&upsilon;&nu;, &epsilon;&nu;ώ &omicron;&iota; &delta;ύ&omicron; &theta;ύ&rho;&epsilon;&sigmaf; USB &tau;&omicron;&upsilon; (1 x USB3.0 &amp; 1 x USB2.0)<br />&sigma;&epsilon; &sigma;&upsilon;&nu;&delta;&upsilon;&alpha;&sigma;&mu;ό &mu;&epsilon; &tau;&eta;&nu; <strong>Micro HDMI</strong> &theta;ύ&rho;&alpha; &epsilon;&xi;ό&delta;&omicron;&upsilon; &upsilon;&pi;ό&sigma;&chi;&omicron;&nu;&tau;&alpha;&iota; &pi;&omega;&sigmaf; &eta; &epsilon;&upsilon;&epsilon;&lambda;&iota;&xi;ί&alpha; &tau;&omicron;&upsilon; &epsilon;ί&nu;&alpha;&iota; &epsilon;&gamma;&gamma;&upsilon;&eta;&mu;έ&nu;&eta;!</p>
+</div>
+
+<div class="tech-specs-row-left">
+<div class="left-image"><img src="https://webstorage.public.gr/Product-Images/1312102/besco2.jpg" alt="HP 14-r208nv" /></div>
+<div class="tech-specs-right-container">
+<div class="tech-specs-right-container-row">
+<div class="tech-specs-right-container-row-image"><img src="https://webstorage.public.gr/media/product-page/main-specs/cpu.jpg" alt="" /></div>
+<div class="tech-specs-right-container-row-desc">
+<h3>&Epsilon;&pi;&epsilon;&xi;&epsilon;&rho;&gamma;&alpha;&sigma;&tau;ή&sigmaf;: <span class="h3-grey">Intel&reg; Celeron N3350</span></h3>
+<p>&Epsilon;&upsilon;έ&lambda;&iota;&kappa;&tau;&omicron;&sigmaf;, &mu;&epsilon; &chi;&alpha;&mu;&eta;&lambda;έ&sigmaf; &epsilon;&nu;&epsilon;&rho;&gamma;&epsilon;&iota;&alpha;&kappa;έ&sigmaf; &alpha;&pi;&alpha;&iota;&tau;ή&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &pi;&omicron;&lambda;ύ &kappa;&alpha;&lambda;ή &alpha;&pi;ό&delta;&omicron;&sigma;&eta; &epsilon;&nu; &gamma;έ&nu;&epsilon;&iota;, &omicron; Intel&reg; Celeron N3350 &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &mu;&iota;&alpha; &pi;&omicron;&lambda;ύ &kappa;&alpha;&lambda;ή &pi;&rho;ό&tau;&alpha;&sigma;&eta; &gamma;&iota;&alpha; &tau;&omicron;&nu; &mu;έ&sigma;&omicron;, &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ό &chi;&rho;ή&sigma;&tau;&eta;.</p>
+</div>
+</div>
+<div class="tech-specs-right-container-row">
+<div class="tech-specs-right-container-row-image"><img src="https://webstorage.public.gr/media/product-page/main-specs/ram.jpg" alt="" /></div>
+<div class="tech-specs-right-container-row-desc">
+<h3>&Mu;&nu;ή&mu;&eta; RAM: <span class="h3-grey">4 GB</span></h3>
+<p>&Mu;&epsilon; &tau;&alpha; 4 GB &theta;&alpha; &delta;&alpha;&mu;ά&sigma;&epsilon;&iota;&sigmaf; &tau;&alpha; &laquo;&kappa;ύ&mu;&alpha;&tau;&alpha;&raquo; &tau;&omicron;&upsilon; &delta;&iota;&alpha;&delta;&iota;&kappa;&tau;ύ&omicron;&upsilon; &sigma;&alpha;&nu; &alpha;&tau;&rho;ό&mu;&eta;&tau;&omicron;&sigmaf; &sigma;έ&rho;&phi;&epsilon;&rho;, &theta;&alpha; &chi;&rho;&eta;&sigma;&iota;&mu;&omicron;&pi;&omicron;&iota;ή&sigma;&epsilon;&iota;&sigmaf; &epsilon;&phi;&alpha;&rho;&mu;&omicron;&gamma;έ&sigmaf; &kappa;&alpha;&iota; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&alpha; &kappa;&alpha;&iota; &theta;&alpha; &delta;&epsilon;&iota;&sigmaf; &tau;&iota;&sigmaf; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;έ&sigmaf; &sigma;&omicron;&upsilon; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &nu;&alpha; &iota;&kappa;&alpha;&nu;&omicron;&pi;&omicron;&iota;&omicron;ύ&nu;&tau;&alpha;&iota;.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="tech-specs-row-right">
+<div class="tech-specs-left-container">
+<div class="tech-specs-left-container-row">
+<div class="tech-specs-left-container-row-desc">
+<h3>&Kappa;ά&rho;&tau;&alpha; &Gamma;&rho;&alpha;&phi;&iota;&kappa;ώ&nu;: <span class="h3-grey">Intel HD Graphics 500<br /></span></h3>
+<p>&Eta; Quest &epsilon;&xi;ό&pi;&lambda;&iota;&sigma;&epsilon; &tau;&omicron;&nu; &upsilon;&pi;&omicron;&lambda;&omicron;&gamma;&iota;&sigma;&tau;ή &tau;&eta;&sigmaf; &mu;&epsilon; &tau;&eta;&nu; &epsilon;&nu;&sigma;&omega;&mu;&alpha;&tau;&omega;&mu;έ&nu;&eta; &kappa;ά&rho;&tau;&alpha; &gamma;&rho;&alpha;&phi;&iota;&kappa;ώ&nu; Intel HD Graphics 500. &Theta;&alpha; &pi;&lambda;&omicron;&eta;&gamma;&eta;&theta;&epsilon;ί&sigmaf; &sigma;&tau;&omicron; ί&nu;&tau;&epsilon;&rho;&nu;&epsilon;&tau;, &theta;&alpha; &chi;&alpha;&zeta;έ&psi;&epsilon;&iota;&sigmaf; &tau;&alpha;&iota;&nu;ί&epsilon;&sigmaf;, &sigma;&epsilon;&iota;&rho;έ&sigmaf; &kappa;&alpha;&iota; &beta;ί&nu;&tau;&epsilon;&omicron;, ό&lambda;&alpha; &alpha;&upsilon;&tau;ά &chi;&omega;&rho;ί&sigmaf; &kappa;&alpha;&nu;έ&nu;&alpha; &pi;&rho;ό&beta;&lambda;&eta;&mu;&alpha;.</p>
+</div>
+<div class="tech-specs-left-container-row-image"><img src="https://webstorage.public.gr/media/product-page/main-specs/graphics.jpg" alt="" /></div>
+</div>
+<div class="tech-specs-left-container-row">
+<div class="tech-specs-left-container-row-desc">
+<h3>&Sigma;&kappa;&lambda;&eta;&rho;ό&sigmaf; &Delta;ί&sigma;&kappa;&omicron;&sigmaf;: <span class="h3-grey">32 GB</span></h3>
+<p>&Omicron; &epsilon;&nu;&sigma;&omega;&mu;&alpha;&tau;&omega;&mu;έ&nu;&omicron;&sigmaf; &sigma;&kappa;&lambda;&eta;&rho;ό&sigmaf; &delta;ί&sigma;&kappa;&omicron;&sigmaf; 32 GB &theta;&alpha; &phi;&rho;&omicron;&nu;&tau;ί&sigma;&epsilon;&iota; &gamma;&iota;&alpha; &tau;&eta;&nu; &alpha;&pi;&omicron;&theta;ή&kappa;&epsilon;&upsilon;&sigma;&eta; &tau;&omega;&nu; &alpha;&rho;&chi;&epsilon;ί&omega;&nu;, &tau;&omega;&nu; &pi;&rho;&omicron;&gamma;&rho;&alpha;&mu;&mu;ά&tau;&omega;&nu; &kappa;&alpha;&iota; &gamma;&epsilon;&nu;&iota;&kappa;ό&tau;&epsilon;&rho;&alpha; &tau;&omega;&nu; &delta;&epsilon;&delta;&omicron;&mu;έ&nu;&omega;&nu; &sigma;&omicron;&upsilon;. &Mu;&eta;&nu; &tau;&omicron; &sigma;&kappa;έ&phi;&tau;&epsilon;&sigma;&alpha;&iota;, &sigma;&omicron;&upsilon; &phi;&tau;ά&nu;&epsilon;&iota;!</p>
+</div>
+<div class="tech-specs-left-container-row-image"><img src="https://webstorage.public.gr/media/product-page/main-specs/apothikeutikos-xwros.jpg" alt="" /></div>
+</div>
+</div>
+<div class="right-image"><img src="https://webstorage.public.gr/Product-Images/1312102/besco3.jpg" alt="HP 14-r208nv" /></div>
+</div>
+<div class="tech-specs-row-left">
+<div class="left-image"><img src="https://webstorage.public.gr/Product-Images/1312102/besco4.jpg" alt="HP 14-r208nv" /></div>
+<div class="tech-specs-right-container">
+<div class="tech-specs-right-container-row">
+<div class="tech-specs-right-container-row-image"><img src="https://webstorage.public.gr/media/product-page/main-specs/laptop-screen.jpg" alt="" /></div>
+<div class="tech-specs-right-container-row-desc">
+<h3>&Omicron;&theta;ό&nu;&eta; - &Phi;&omicron;&rho;&eta;&tau;ό&tau;&eta;&tau;&alpha;: <span class="h3-grey">13.3"</span></h3>
+<p>&Eta; FHD Touch LED &omicron;&theta;ό&nu;&eta; 13.3", &pi;&alpha;&rho;ά&gamma;&epsilon;&iota; &sigma;&omicron;ύ&pi;&epsilon;&rho; &epsilon;&iota;&kappa;ό&nu;&alpha; &mu;&epsilon; &kappa;&omicron;&rho;&upsilon;&phi;&alpha;ί&alpha; &phi;&omega;&tau;&epsilon;&iota;&nu;ό&tau;&eta;&tau;&alpha; &kappa;&alpha;&iota; &omicron;&lambda;&omicron;&zeta;ώ&nu;&tau;&alpha;&nu;&alpha; &chi;&rho;ώ&mu;&alpha;&tau;&alpha;. &Theta;&alpha; &sigma;&epsilon; &beta;&omicron;&lambda;έ&psi;&epsilon;&iota; &mu;&iota;&alpha; &chi;&alpha;&rho;ά, &kappa;&alpha;&lambda;ύ&pi;&tau;&omicron;&nu;&tau;&alpha;&sigmaf; &kappa;&alpha;&iota; &mu;&epsilon; &tau;&omicron; &pi;&alpha;&rho;&alpha;&pi;ά&nu;&omega; &tau;&iota;&sigmaf; &alpha;&pi;&alpha;&iota;&tau;ή&sigma;&epsilon;&iota;&sigmaf; &sigma;&omicron;&upsilon; &kappa;&alpha;&iota; &kappa;&omicron;&nu;&tau;&rho;ά&rho;&omicron;&nu;&tau;&alpha;&sigmaf; &sigma;&tau;&alpha; ί&sigma;&iota;&alpha; &alpha;&upsilon;&tau;έ&sigmaf; &tau;&eta;&sigmaf; &kappa;&alpha;&tau;&eta;&gamma;&omicron;&rho;ί&alpha;&sigmaf; &tau;&omega;&nu; 15.6".</p>
+</div>
+</div>
+<div class="tech-specs-right-container-row">
+<div class="tech-specs-right-container-row-image"><img src="https://webstorage.public.gr/media/product-page/main-specs/os.jpg" alt="" /></div>
+<div class="tech-specs-right-container-row-desc">
+<h3>&Lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ό: <span class="h3-grey">Windows 10<br /></span></h3>
+<p>&Tau;&omicron;&nbsp;<strong style="line-height: 18px;">Quest Slimbook 360&nbsp;</strong>&epsilon;&xi;&omicron;&pi;&lambda;ί&zeta;&epsilon;&tau;&alpha;&iota; &mu;&epsilon; έ&nu;&alpha; &alpha;&pi;ό &tau;&alpha; &pi;&iota;&omicron; &epsilon;&upsilon;&rho;έ&omega;&sigmaf; &gamma;&nu;&omega;&sigma;&tau;ά &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ά &sigma;&upsilon;&sigma;&tau;ή&mu;&alpha;&tau;&alpha; &sigma;&tau;&eta;&nu; &pi;&alpha;&gamma;&kappa;ό&sigma;&mu;&iota;&alpha; &alpha;&gamma;&omicron;&rho;ά, &kappa;&alpha;&iota; ό&chi;&iota; ά&delta;&iota;&kappa;&alpha;. &Delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota; &pi;&omicron;&lambda;&upsilon;ά&rho;&iota;&theta;&mu;&epsilon;&sigmaf; &epsilon;&phi;&alpha;&rho;&mu;&omicron;&gamma;έ&sigmaf; &gamma;&iota;&alpha; &tau;&eta;&nu; &delta;&iota;&epsilon;&upsilon;&kappa;ό&lambda;&upsilon;&nu;&sigma;&eta; &sigma;&omicron;&upsilon; &kappa;&alpha;&iota; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &mu;ί&alpha; &iota;&delta;&alpha;&nu;&iota;&kappa;ή &lambda;ύ&sigma;&eta; &gamma;&iota;&alpha; &alpha;&rho;&chi;ά&rho;&iota;&omicron;&upsilon;&sigmaf; &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; έ&mu;&pi;&epsilon;&iota;&rho;&omicron;&upsilon;&sigmaf; &chi;&rho;ή&sigma;&tau;&epsilon;&sigmaf;.</p>
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,23 @@
+﻿<div class="ui-tabs selected-is-orange">
+<ul>
+<li><a class="product-tab active" href="https://www.public.gr/product/aksesoyar/kiniton/thikes/thiki-kinitoy-whatathens-iphone-7-blue-map/prod8801209pp/#" data-target="#info">&pi;&lambda;&eta;&rho;&omicron;&phi;&omicron;&rho;ί&epsilon;&sigmaf;</a></li>
+</ul>
+</div>
+<div id="info" class="ui-tab-pane filled">
+<div id="product-tab1-banner">&nbsp;</div>
+<div id="tabs-1">
+<p>&Mu;&iota;&alpha; &epsilon;&nu;&tau;&upsilon;&pi;&omega;&sigma;&iota;&alpha;&kappa;ή <strong>&theta;ή&kappa;&eta;</strong> &gamma;&iota;&alpha; &tau;&omicron; &alpha;&gamma;&alpha;&pi;&eta;&mu;έ&nu;&omicron; &sigma;&alpha;&sigmaf; iPHONE 7 &tau;&eta;&sigmaf; <strong>WhatAthens</strong> &mu;&epsilon; &upsilon;&pi;έ&rho;&omicron;&chi;&eta; &alpha;&pi;&epsilon;&iota;&kappa;ό&nu;&iota;&sigma;&eta; &tau;&eta;&sigmaf; &Alpha;&kappa;&rho;ό&pi;&omicron;&lambda;&eta;&sigmaf;. Έ&chi;&epsilon;&iota; &delta;&iota;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf; 12x6cm &lambda;&epsilon;&upsilon;&kappa;&omicron;ύ &mu;&pi;&lambda;&epsilon; &chi;&rho;ώ&mu;&alpha;&tau;&omicron;&sigmaf; &alpha;&pi;ό &pi;&lambda;&alpha;&sigma;&tau;&iota;&kappa;ό &kappa;&alpha;&iota; &sigma;ί&gamma;&omicron;&upsilon;&rho;&alpha; &theta;&alpha; &sigma;&alpha;&sigmaf; &epsilon;&nu;&tau;&upsilon;&pi;&omega;&sigma;&iota;ά&sigma;&epsilon;&iota;!</p>
+<div class="tech-specs">
+<div class="tech-specs-header">
+<h2>&Chi;&alpha;&rho;&alpha;&kappa;&tau;&eta;&rho;&iota;&sigma;&tau;&iota;&kappa;ά</h2>
+</div>
+<ul>
+<li><strong>&Mu;&omicron;&tau;ί&beta;&omicron;</strong>: &Alpha;&kappa;&rho;ό&pi;&omicron;&lambda;&eta; &Chi;ά&rho;&tau;&eta;&sigmaf;</li>
+<li><strong>&Upsilon;&lambda;&iota;&kappa;ό &kappa;&alpha;&tau;&alpha;&sigma;&kappa;&epsilon;&upsilon;ή&sigmaf;</strong>: &Pi;&lambda;&alpha;&sigma;&tau;&iota;&kappa;ό</li>
+<li><strong>&Chi;&rho;ώ&mu;&alpha;</strong>: &Lambda;&epsilon;&upsilon;&kappa;ό-&Mu;&pi;&lambda;&epsilon;</li>
+<li><strong>&Delta;&iota;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf;</strong>: 6.5x13.5cm</li>
+<li><strong>&Iota;&delta;&alpha;&nu;&iota;&kappa;ή &theta;ή&kappa;&eta; &gamma;&iota;&alpha;</strong>: iPHONE 7</li>
+</ul>
+</div>
+</div>
+</div>

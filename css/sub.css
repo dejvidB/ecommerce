@@ -1,0 +1,152 @@
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    background-color: #f1f1f1;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: black;
+}
+
+.container {
+    transition: margin-left .5s;
+    padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+
+    .sidenav a {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #closebtn {
+        display: inline;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #closebtn {
+        display: none;
+    }
+}
+
+.sidenav hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+
+.chip {
+    border: 1px solid black;
+    font-size: 16px;
+    line-height: 20px;
+    background-color: #f1f1f1;
+    margin: 5px;
+    vertical-align: top;
+    color: #000;
+    flex-shrink: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 24px;
+    padding: 0 10px 0 10px;
+}
+
+.chip .closebtn {
+    padding-left: 10px;
+    color: #888;
+    font-weight: bold;
+    float: right;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.chip .closebtn:hover {
+    color: #000;
+}
+
+#filter_list {
+    display: flex;
+    justify-content: space-between;
+}
+
+#filter_container {
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    display: flex;
+    align-items: center;
+}
+
+.items {
+    min-width: 0;
+    position: relative;
+    width: 100%;
+    overflow-x: auto;
+    scrollbar-width: none;
+    overflow-y: hidden;
+    white-space: nowrap;
+    transition: all 0.2s;
+    will-change: transform;
+    user-select: none;
+}
+
+.item .product {
+    cursor: pointer;
+    transition: border .2s ease-in-out;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, .075);
+    margin-bottom: 15px;
+}
+
+.font {
+    color: #ffbc00;
+}
+
+.item img {
+    vertical-align: middle;
+    width: 100%;
+    pointer-events: none;
+}
+
+.item h4 {
+    overflow: auto;
+    scrollbar-width: none;
+    color: black;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    font-size: 18px;
+}
+
+.item h5 {
+    color: black;
+    font-size: 22px;
+}
+
+.item .add_to_cart {
+    margin-bottom: 5px;
+}

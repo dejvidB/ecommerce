@@ -1,0 +1,37 @@
+Options -MultiViews
+RewriteEngine On
+RewriteBase /ecommerce/
+
+##HERE IS THE IMPORTANT PART
+RewriteCond %{THE_REQUEST} /product\?alias=([^&\s]+)&id=([^&\s]+) [NC]
+RewriteRule ^ product/%1/%2/? [L,R=301]
+
+RewriteCond %{THE_REQUEST} /category\?alias=([^&\s]+) [NC]
+RewriteRule ^ category/%1/? [L,R=301]
+
+## hide .php extension
+# To externally redirect /dir/foo.php to /dir/foo
+RewriteCond %{THE_REQUEST} \s/+(.*?/)?(?:index|(\S+?))\.php[/\s?] [NC]
+RewriteRule ^ /%1%2 [R=301,L,NE]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^/?product/([^/]+)/([^/]+)/?$ product.php?alias=$1&id=$2 [L,NC,QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^/?category/([^/]+)/?$ category.php?alias=$1 [L,NC,QSA]
+
+## category/computers-and-software/laptops --> sub?alias=laptops
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^/?category/([^/]+)/([^/]+)/?$ sub.php?alias=$2 [L,NC,QSA]
+
+## To internally redirect /dir/foo to /dir/foo.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+?)/?$ $1.php [L]
+
+##hide /index
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\index [NC]
+RewriteRule ^ %1 [R,L,NC]
